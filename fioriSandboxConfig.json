@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"sap-hr-plugin-switch-language": {
+			"component": "tag.flp.switchlanguage",
+			"url": "../../../../../"
+		}
+	}
+}
